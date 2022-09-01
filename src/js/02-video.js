@@ -20,7 +20,6 @@ player.on('timeupdate', throttle(onPlay, 1000));
 player
   .setCurrentTime(CurrentTime)
   .then(function (seconds) {
-    localStorage.removeItem(STORAGE_KEY);
     // seconds = the actual time that the player seeked to
   })
   .catch(function (error) {
