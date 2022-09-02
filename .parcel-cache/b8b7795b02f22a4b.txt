@@ -16,7 +16,7 @@
 89E:\FullStack 55\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-touch-action.js133058840704955342 0
 42E:\FullStack 55\goit-js-hw-08\README.pl.md132986943040000000 0
 86E:\FullStack 55\goit-js-hw-08\node_modules\caniuse-lite\data\features\pad-start-end.js133058840726303975 0
-34E:\FullStack 55\goit-js-hw-08\dist133065272272285622 1
+34E:\FullStack 55\goit-js-hw-08\dist133065758932640439 1
 50E:\FullStack 55\goit-js-hw-08\node_modules\timsort133058840664281628 1
 41E:\FullStack 55\goit-js-hw-08\.posthtmlrc132986943040000000 0
 92E:\FullStack 55\goit-js-hw-08\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133058840652103662 0
@@ -58,7 +58,7 @@
 63E:\FullStack 55\goit-js-hw-08\node_modules\joi\lib\validator.js133059093113260980 0
 40E:\FullStack 55\goit-js-hw-08\.gitignore133060901624835270 0
 123E:\FullStack 55\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub133058840692865694 1
-42E:\FullStack 55\goit-js-hw-08\package.json133063696136485136 0
+42E:\FullStack 55\goit-js-hw-08\package.json133065275833941841 0
 91E:\FullStack 55\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133058840690884336 0
 65E:\FullStack 55\goit-js-hw-08\node_modules\resolve-from\readme.md133058840644434648 0
 67E:\FullStack 55\goit-js-hw-08\node_modules\react-refresh\runtime.js133058840655747793 0
@@ -906,7 +906,7 @@
 84E:\FullStack 55\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\common-targets133058840702528573 1
 75E:\FullStack 55\goit-js-hw-08\node_modules\yaml\dist\resolveSeq-d03cb037.js133058840676818922 0
 74E:\FullStack 55\goit-js-hw-08\node_modules\caniuse-lite\data\regions\RS.js133058840728593649 0
-45E:\FullStack 55\goit-js-hw-08\dist\index.html133065262900171463 0
+45E:\FullStack 55\goit-js-hw-08\dist\index.html133065758932570386 0
 79E:\FullStack 55\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\05.jpg133059707656386728 0
 66E:\FullStack 55\goit-js-hw-08\node_modules\sass\types\compile.d.ts133058840689867558 0
 71E:\FullStack 55\goit-js-hw-08\node_modules\yaml\dist\Schema-88e323a7.js133058840678179818 0
@@ -2940,7 +2940,7 @@
 64E:\FullStack 55\goit-js-hw-08\node_modules\css-what\package.json133058840661631852 0
 81E:\FullStack 55\goit-js-hw-08\node_modules\css-tree\lib\syntax\atrule\supports.js133058840697028381 0
 64E:\FullStack 55\goit-js-hw-08\node_modules\css-what\lib\commonjs133058840674248174 1
-50E:\FullStack 55\goit-js-hw-08\dist\01-gallery.html133065262900161454 0
+50E:\FullStack 55\goit-js-hw-08\dist\01-gallery.html133065758932570386 0
 58E:\FullStack 55\goit-js-hw-08\node_modules\css-what\lib\es133058840674608422 1
 69E:\FullStack 55\goit-js-hw-08\node_modules\css-what\lib\es\index.d.ts133058840671376276 0
 73E:\FullStack 55\goit-js-hw-08\node_modules\css-what\lib\es\index.d.ts.map133058840664551725 0
@@ -4908,12 +4908,12 @@
 55E:\FullStack 55\goit-js-hw-08\dist\02-video.4bac62a1.js133065272271695224 0
 59E:\FullStack 55\goit-js-hw-08\dist\02-video.4bac62a1.js.map133065272272025436 0
 59E:\FullStack 55\goit-js-hw-08\dist\02-video.994378ab.js.map133065272272025436 0
-48E:\FullStack 55\goit-js-hw-08\dist\02-video.html133065272271525114 0
+48E:\FullStack 55\goit-js-hw-08\dist\02-video.html133065758932570386 0
 58E:\FullStack 55\goit-js-hw-08\dist\03-feedback.0ab558ff.js133065272271535123 0
 62E:\FullStack 55\goit-js-hw-08\dist\03-feedback.0ab558ff.js.map133065272272025436 0
 62E:\FullStack 55\goit-js-hw-08\dist\03-feedback.86430dd8.js.map133065272272025436 0
 63E:\FullStack 55\goit-js-hw-08\dist\03-feedback.bb91f3cc.css.map133065272271675211 0
-51E:\FullStack 55\goit-js-hw-08\dist\03-feedback.html133065272271535123 0
+51E:\FullStack 55\goit-js-hw-08\dist\03-feedback.html133065758932570386 0
 43E:\FullStack 55\goit-js-hw-08\css\index.css133058841942529867 0
 47E:\FullStack 55\goit-js-hw-08\css\index.css.map133058841942559881 0
 47E:\FullStack 55\goit-js-hw-08\css\index.min.css133058841942559881 0
