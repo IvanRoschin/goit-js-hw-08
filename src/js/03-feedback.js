@@ -26,9 +26,9 @@ function onFormSubmit(evt) {
 
   console.log('Значение объекта с данными', formData);
   evt.currentTarget.reset();
-  for (key in formData) {
-    delete formData[key];
-  }
+  
+  reset(formData);
+
   localStorage.removeItem(STORAGE_KEY);
 }
 
@@ -42,3 +42,9 @@ function populateFormData() {
     refs.email.value = parsedData.email || '';
   }
 }
+
+function reset(obj) {
+  for (const [key, value] of Object.entries(obj)) {
+    if (typeof value === 'object' && value !== null) reset(value);
+    else delete obj[key];
+  }
