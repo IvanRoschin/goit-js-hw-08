@@ -46,5 +46,5 @@ function populateFormData() {
 function reset(obj) {
   for (const [key, value] of Object.entries(obj)) {
     if (typeof value === 'object' && value !== null) reset(value);
-    else delete obj[key];
+    else obj[key] = '';
   }
