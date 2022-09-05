@@ -12,24 +12,22 @@ const formData = {};
 populateFormData();
 
 refs.form.addEventListener('submit', onFormSubmit);
-refs.form.addEventListener('input', e => {
-  formData[e.target.name] = e.target.value;
-});
 refs.form.addEventListener('input', throttle(onFormInput, 500));
 
-function onFormInput() {
+function onFormInput(e) { 
+  formData[e.target.name] = e.target.value;
   localStorage.setItem(STORAGE_KEY, JSON.stringify(formData));
 }
+
 
 function onFormSubmit(evt) {
   evt.preventDefault();
 
-  console.log('Значение объекта с данными', formData);
-  evt.currentTarget.reset();
-  
+  console.log(JSON.parse(localStorage.getItem(STORAGE_KEY)));
+  evt.currentTarget.reset();  
   reset(formData);
-
   localStorage.removeItem(STORAGE_KEY);
+  
 }
 
 function populateFormData() {
